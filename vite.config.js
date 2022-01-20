@@ -1,4 +1,8 @@
-export default {
-    base: '/auaa'
-    // 配置选项
+/**
+ * @type {import('vite').UserConfig}
+ */
+const config = {
+    base: '/auaa/'
 }
+
+export default config;
