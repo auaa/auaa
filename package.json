@@ -2,9 +2,9 @@
   "name": "blog",
   "version": "1.0.0",
   "scripts": {
-    "dev": "vite",
+    "dev": "vite --mode dev",
     "build": "vite build",
-    "build:prod": "vite build --mode prod",
+    "build:prod": "vite build",
     "preview": "vite preview"
   },
   "devDependencies": {

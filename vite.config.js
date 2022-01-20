@@ -4,5 +4,4 @@
 const config = {
     base: '/auaa/'
 }
-
 export default config;
